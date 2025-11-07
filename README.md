@@ -26,7 +26,5 @@ Ce script PowerShell implémente un **Host-based Intrusion Detection System (HID
   Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ##Lancer le script
-
-- cd "C:\chemin\vers\ton\script"
 - .\SimpleHIDS.ps1
  
